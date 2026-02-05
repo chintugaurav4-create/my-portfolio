@@ -1,4 +1,4 @@
-# Personal Portfolio Website - Gaurav Chintu
+# Personal Portfolio Website - Gaurav V
 
 ## 📌 Overview
 This is a responsive personal portfolio website built to showcase my skills, academic projects, and education as a BCA student at KLE Technological University. It serves as a digital resume to connect with recruiters and peers.
@@ -21,4 +21,5 @@ This is a responsive personal portfolio website built to showcase my skills, aca
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
+
    git clone [https://github.com/chintugaurav4-create/portfolio.git](https://github.com/chintugaurav4-create/portfolio.git)
